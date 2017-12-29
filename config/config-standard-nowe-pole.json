@@ -1,0 +1,1826 @@
+{
+	"data": {
+		"type": "CRITERION",
+		"name": "with or without device",
+		"component": "TMOCriterionOfferTypeComponent",
+		"values": [{
+			"name": "Z urządzeniem",
+			"data": {
+				"type": "CRITERION",
+				"name": "offer type",
+				"component": "TMOCriterionContractTabComponent",
+				"values": [{
+					"name": "T-Mobile 1 - Bez limitu",
+					"documents": [{
+						"name": "Załącznik cenowy „Promocyjne telefony dla ofert T-Mobile 1 – Bez Limitu”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_006_0015217.pdf"
+					}, {
+						"name": "Warunki Oferty Promocyjnej „T-Mobile 1 - Bez Limitu z telefonem na 24 miesiące Raty w T-Mobile / TMUB”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0015052.pdf"
+					}, {
+						"name": "Szczegółowe Warunki Świadczenia Usługi „Pakiet Bezpieczeństwa dla Abonentów T-Mobile”",
+						"link": "http://www.http://t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0004896.pdf"
+					}],
+					"data": {
+						"type": "BOX",
+						"documents": [{
+							"name": "Warunki Oferty Promocyjnej Taryfa T z telefonem na 24 miesiące",
+							"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013673.pdf"
+						}, {
+							"name": "Cennik Taryfy T",
+							"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_005_0012415.pdf"
+						}, {
+							"name": "Załącznik cenowy Promocyjne telefony dla ofert www z taryfą T",
+							"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_006_0013242.pdf"
+						}],
+						"values": [{
+							"name": "T-MOBILE 1",
+							"subname": "BEZ LIMITU",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39672",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 80,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39700",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 100,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39701",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 120,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39698",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 140,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39699",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 160,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39673",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 180,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}]
+							}
+						},{
+							"name": "T-MOBILE 1",
+							"subname": "BEZ LIMITU",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39672",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 80,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39700",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 100,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39701",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 120,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39698",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 140,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39699",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 160,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39673",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 180,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": [],
+									"additionalServices": []
+								}]
+							}
+						}, {
+							"name": "T-MOBILE 1",
+							"subname": "DLA PRZENOSZĄCYCH NUMER",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39674",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 70,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39675",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,6 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 90,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39676",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 110,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39685",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 130,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39687",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 150,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39690",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 170,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}]
+							}
+						}, {
+							"name": "4 MIESIĄCE ZA 1 ZŁ",
+							"subname": "DLA PRZENOSZĄCYCH NUMER",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39677",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": 4,
+									"discountPrice": 1,
+									"basePrice": {
+										"value": 80,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39678",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": 4,
+									"discountPrice": 1,
+									"basePrice": {
+										"value": 100,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39680",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": 4,
+									"discountPrice": 1,
+									"basePrice": {
+										"value": 120,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39679",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,6 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": 4,
+									"discountPrice": 1,
+									"basePrice": {
+										"value": 140,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39682",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": 4,
+									"discountPrice": 1,
+									"basePrice": {
+										"value": 160,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}, {
+									"offerCode": "tariprom_39681",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 4,1 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": 4,
+									"discountPrice": 1,
+									"basePrice": {
+										"value": 180,
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": [],
+									"additionalServices": []
+								}]
+							}
+						}]
+					}
+				}, {
+					"name": "Standardowa",
+					"documents": [{
+						"name": "Cennik Taryfy T",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_005_0012415.pdf"
+					}, {
+						"name": "Załącznik cenowy „Promocyjne telefony dla ofert www z taryfą T”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_006_0013242.pdf"
+					}, {
+						"name": "Regulamin Usługi Telekomunikacyjnej „SUPERNET VIDEO”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0014874.pdf"
+					}, {
+						"name": "Regulamin Usługi MyDysk",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0006606.pdf"
+					}, {
+						"name": "Regulamin Świadczenia Usługi Nawigacja",
+						"link": "https://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0011287.pdf"
+					}, {
+						"name": "Regulamin Usługi Bezpieczne Surfowanie",
+						"link": "https://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0012967.pdf"
+					}, {
+						"name": "Regulamin Usługi SUPERNET",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013156.pdf"
+					}, {
+						"name": "Pakiet bezpieczeństwa dla abonentów T-Mobile",
+						"link": "http://t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0004896.pdf"
+					}, {
+						"name": "Warunki Oferty Promocyjnej „Taryfa T z telefonem WWW na 24 miesiące raty w T-MOBILE/TMUB”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013673.pdf"
+					}, {
+						"name": "Warunki oferty promocyjnej „Oferty T2 Smartfoneria 24 lub 36 rat”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013675.pdf"
+					}],
+					"data": {
+						"type": "BOX",
+						"values": [{
+							"name": "OFERTA T1",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38931",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "2 GB",
+										"infotip": "W tym 1,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 49.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "PP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38933",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "5GB",
+										"infotip": "W tym 2,05 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 59.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "PP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38935",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "10GB",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 69.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "PP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38937",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 79.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "PP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}]
+							}
+						}, {
+							"name": "OFERTA T2",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38939",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "5 GB",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 69.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "PP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}, {
+									"offerCode": "tariprom_38941",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "10 GB",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 79.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "PP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}, {
+									"offerCode": "tariprom_38955",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,6 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 89.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "PP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}]
+							}
+						}, {
+							"name": "OFERTA T2 - SMARTFONERIA",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38927",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,6 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 99.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "PP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}]
+							}
+						}]
+					}
+				}, {
+					"name": "Dla przenoszących numer",
+					"documents": [{
+						"name": "Cennik Taryfy T",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_005_0012415.pdf"
+					}, {
+						"name": "Załącznik cenowy „Promocyjne telefony dla ofert www z taryfą T”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_006_0013242.pdf"
+					}, {
+						"name": "Regulamin Usługi SUPERNET",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013156.pdf"
+					}, {
+						"name": "Pakiet bezpieczeństwa dla abonentów T-Mobile",
+						"link": "http://t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0004896.pdf"
+					}, {
+						"name": "Regulamin Usługi MyDysk",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0006606.pdf"
+					}, {
+						"name": "Regulamin Świadczenia Usługi Nawigacja",
+						"link": "https://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0011287.pdf"
+					}, {
+						"name": "Regulamin Usługi Bezpieczne Surfowanie",
+						"link": "https://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0012967.pdf"
+					}, {
+						"name": "Warunki Oferty Promocyjnej „Taryfa T z telefonem „6x1” na 24 miesiące raty w T-MOBILE/TMUB”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013238.pdf"
+					}, {
+						"name": "Warunki Oferty Promocyjnej „Oferty T2 Smartfoneria 6x1 24 Rat w T-MOBILE/TMUB>”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0015264.pdf"
+					}],
+					"data": {
+						"type": "BOX",
+						"values": [{
+							"name": "OFERTA T1",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38679",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "2 GB",
+										"infotip": "W tym 1,55 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": "6 miesięcy",
+									"discountPrice": "1.00",
+									"basePrice": {
+										"value": "49.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38681",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "5 GB",
+										"infotip": "W tym 2,05 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": "6 miesięcy",
+									"discountPrice": "1.00",
+									"basePrice": {
+										"value": "59.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38683",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "10 GB",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": "6 miesięcy",
+									"discountPrice": "1.00",
+									"basePrice": {
+										"value": "69.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38685",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": "6 miesięcy",
+									"discountPrice": "1.00",
+									"basePrice": {
+										"value": "79.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}]
+							}
+						}, {
+							"name": "OFERTA T2",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38690",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "5 GB",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": "6 miesięcy",
+									"discountPrice": "1.00",
+									"basePrice": {
+										"value": "69.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}, {
+									"offerCode": "tariprom_38692",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "10 GB",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": "6 miesięcy",
+									"discountPrice": "1.00",
+									"basePrice": {
+										"value": "79.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}, {
+									"offerCode": "tariprom_38694",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,6 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": "6 miesięcy",
+									"discountPrice": "1.00",
+									"basePrice": {
+										"value": "89.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}]
+							}
+						}, {
+							"name": "OFERTA T2 - SMARTFONERIA",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39580",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,6 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": "6 miesięcy",
+									"discountPrice": "1.00",
+									"basePrice": {
+										"value": "99.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["MNP"],
+									"extraSections": ["VideoExpandedRow"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}]
+							}
+						}]
+					}
+				}, {
+					"name": "Z Video bez limitu danych",
+					"documents": [],
+					"data": {
+						"type": "BOX",
+						"values": [{
+							"name": "Z TELEFONEM",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39485",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "5 GB",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 69.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["VideoNoLimitTooltipDVD"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}]
+							}
+						}, {
+							"name": "Z TELEFONEM",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39487",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "10 GB",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 99.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["VideoNoLimitTooltipHD"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}]
+							}
+						}]
+					}
+				}]
+			}
+		}, {
+			"name": "Bez urządzenia",
+			"data": {
+				"type": "CRITERION",
+				"name": "offer type",
+				"component": "TMOCriterionContractTabComponent",
+				"values": [{
+					"name": "T-Mobile 1 - Bez limitu",
+					"documents": [{
+						"name": "Załącznik cenowy „Promocyjne telefony dla ofert T-Mobile 1 – Bez Limitu”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_006_0015217.pdf"
+					}, {
+						"name": "Warunki Oferty Promocyjnej „T-Mobile 1 - Bez Limitu z telefonem na 24 miesiące Raty w T-Mobile / TMUB”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0015052.pdf"
+					}, {
+						"name": "Szczegółowe Warunki Świadczenia Usługi „Pakiet Bezpieczeństwa dla Abonentów T-Mobile”",
+						"link": "http://www.http://t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0004896.pdf"
+					}],
+					"data": {
+						"type": "BOX",
+						"documents": [{
+							"name": "1111111Warunki Oferty Promocyjnej Taryfa T z telefonem na 24 miesiące",
+							"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013673.pdf"
+						}, {
+							"name": "Cennik Taryfy T",
+							"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_005_0012415.pdf"
+						}, {
+							"name": "Załącznik cenowy Promocyjne telefony dla ofert www z taryfą T",
+							"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_006_0013242.pdf"
+						}],
+						"values": [{
+							"name": "NOWY NUMER",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39596",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": "50.00",
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW"],
+									"extraSections": [],
+									"additionalServices": []
+								}]
+							}
+						}, {
+							"name": "DLA PRZENOSZACYCH NUMER",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39653",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": true,
+									"discountPeriodDuration": 4,
+									"discountPrice": "1,00",
+									"basePrice": {
+										"value": "50.00",
+										"showSecond": false
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW"],
+									"extraSections": [],
+									"additionalServices": []
+								}]
+							}
+						}]
+					}
+				}, {
+					"name": "Standardowa",
+					"documents": [{
+						"name": "Warunki Oferty Promocyjnej Taryfa T bez telefonu na 24 miesiące",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013023.pdf"
+					}, {
+						"name": "Cennik Taryfy T",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_005_0012415.pdf"
+					}, {
+						"name": "Regulamin Usługi MyDysk",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0006606.pdf"
+					}, {
+						"name": "Regulamin Usługi SUPERNET",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013156.pdf"
+					}, {
+						"name": "Regulamin Usługi Bezpieczne Surfowanie",
+						"link": "https://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0012967.pdf"
+					}, {
+						"name": "Pakiet bezpieczeństwa dla abonentów T-Mobile",
+						"link": "http://t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0004896.pdf"
+					}, {
+						"name": "Regulamin Usługi Telekomunikacyjnej „SUPERNET VIDEO”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0014874.pdf"
+					}, {
+						"name": "Regulamin Świadczenia Usługi Nawigacja",
+						"link": "https://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0011287.pdf"
+					}],
+					"data": {
+						"type": "BOX",
+						"values": [{
+							"name": "OFERTA T1",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38734",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "20gr",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "2 GB",
+										"infotip": "W tym 1,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 29.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["extra"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38735",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "20gr",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "5GB",
+										"infotip": "W tym 2,05 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 39.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["extra"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38736",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "20gr",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "10GB",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 49.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["extra"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}, {
+									"offerCode": "tariprom_38737",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "20gr",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 59.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["extra"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}]
+							}
+						}, {
+							"name": "OFERTA T2",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38738",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "5 GB",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 49.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["extra"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}, {
+									"offerCode": "tariprom_38739",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "10 GB",
+										"infotip": "W tym 3,1 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 59.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["extra"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}, {
+									"offerCode": "tariprom_38740",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "BEZ LIMITU DANYCH",
+										"infotip": "W tym 3,6 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 69.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["extra"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}]
+							}
+						}]
+					}
+				}, {
+					"name": "Tylko online",
+					"documents": [{
+						"name": "Warunki Oferty Promocyjnej „Taryfa T bez telefonu na 6&24 miesiące”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013158.pdf"
+					}, {
+						"name": "Cennik Taryfy T",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_005_0012415.pdf"
+					}, {
+						"name": "Regulamin Usługi SUPERNET",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0013156.pdf"
+					}, {
+						"name": "Regulamin Usługi Telekomunikacyjnej „SUPERNET VIDEO”",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0014874.pdf"
+					}, {
+						"name": "Regulamin Usługi MyDysk",
+						"link": "http://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0006606.pdf"
+					}, {
+						"name": "Regulamin Usługi Bezpieczne Surfowanie",
+						"link": "https://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0012967.pdf"
+					}, {
+						"name": "Pakiet bezpieczeństwa dla abonentów T-Mobile",
+						"link": "http://t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0004896.pdf"
+					}, {
+						"name": "Regulamin Świadczenia Usługi Nawigacja",
+						"link": "https://www.t-mobile.pl/r/repo1/tm/documents/doc_00008/D_007_0011287.pdf"
+					}],
+					"data": {
+						"type": "BOX",
+						"values": [{
+							"name": "T1 na 6 miesięcy",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38780",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "2 GB",
+										"infotip": "W tym 1,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": "29.95",
+										"showSecond": true
+									},
+									"contractDuration": 6,
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["VideoNoLimitTooltip"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}]
+							}
+						}, {
+							"name": "T1 na 24 miesiące",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_38779",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "2 GB",
+										"infotip": "W tym 1,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": "29.95",
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["VideoNoLimitTooltip"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe"]
+								}]
+							}
+						}]
+					}
+				}, {
+					"name": "Z Video bez limitu danych",
+					"documents": [],
+					"data": {
+						"type": "BOX",
+						"values": [{
+							"name": "BEZ TELEFONU",
+							"data": {
+								"type": "OFFER",
+								"values": [{
+									"offerCode": "tariprom_39465",
+									"calls": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"SMS": {
+										"text": "BEZ LIMITU",
+										"infotip": "W Polsce oraz w roamingu w UE"
+									},
+									"dataPacket": {
+										"text": "5 GB",
+										"infotip": "W tym 2,55 GB w UE"
+									},
+									"hasDiscountPeriod": false,
+									"discountPeriodDuration": null,
+									"discountPrice": null,
+									"basePrice": {
+										"value": 49.95,
+										"showSecond": true
+									},
+									"contractDuration": 24,
+									"contractDurationText": "Umowa na ",
+									"availableFor": ["NEW", "MNP", "PP"],
+									"extraSections": ["VideoNoLimitTooltipDVD"],
+									"additionalServices": ["myBox", "nawigacja", "myDysk", "radio", "tidal", "facebook", "messenger", "whatsApp", "twitter", "OLX", "Otomoto", "otodom", "Migam", "myTmobile", "Usługi Bankowe", "Tinder"]
+								}]
+							}
+						}]
+					}
+				}]
+			}
+		}]
+	},
+	"services": {
+		"myBox": {
+			"name": "MyBox",
+			"description": "Najpopularniejsze aplikacje T-Mobile zebrane w jednej aplikacji.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0011_mybox.png"
+		},
+		"tidal": {
+			"name": "Tidal",
+			"description": "Muzyka bez limitu danych. To opcja umożliwiająca korzystanie z Tidala i słuchanie internetowych stacji radiowych w smartfonie bez zużywania paczek danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0005_Tidal.png"
+		},
+		"radio": {
+			"name": "Radio internetowe",
+			"description": "To opcja umożliwiająca korzystanie z Tidala i słuchanie internetowych stacji radiowych w smartfonie bez zużywania paczek danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0016_radio.png"
+		},
+		"nawigacja": {
+			"name": "Nawigacja",
+			"description": "Nawigacja, która szybko i bez korków doprowadzi Cię do celu. Aplikacja nie zużywa pakietów danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0009_nawigacja.png"
+		},
+		"myDysk": {
+			"name": "MyDysk",
+			"description": "Przestrzeń na dysku na Twoje zdjęcia, wiadomości i muzykę. Dzięki MyDysk masz do nich dostęp z dowolnego miejsca w świecie - nawet po zmianie telefonu.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0010_mydysk.png"
+		},
+		"facebook": {
+			"name": "Facebook",
+			"description": "To opcja umożliwiająca korzystanie z Twoich ulubionych aplikacji społecznościowych bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0000_fb.png"
+		},
+		"twitter": {
+			"name": "Twitter",
+			"description": "To opcja umożliwiająca korzystanie z Twoich ulubionych aplikacji społecznościowych bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0003_twitter.png"
+		},
+		"messenger": {
+			"name": "Messenger",
+			"description": "To opcja umożliwiająca korzystanie z Twoich ulubionych aplikacji społecznościowych bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0014_messenger.png"
+		},
+		"whatsApp": {
+			"name": "WhatsApp",
+			"description": "To opcja umożliwiająca korzystanie z Twoich ulubionych aplikacji społecznościowych bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0001_whatsap.png"
+		},
+		"OLX": {
+			"name": "OLX  ",
+			"description": "To opcja umożliwiająca korzystanie z OLX w smartfonie bez zużywania paczek danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0008_OLX.png"
+		},
+		"Otomoto": {
+			"name": "Otomoto",
+			"description": "To opcja umożliwiająca korzystanie z Otomoto w smartfonie bez zużywania paczek danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0006_otomoto.png"
+		},
+		"otodom": {
+			"name": "otodom",
+			"description": "To opcja umożliwiająca korzystanie z otodom w smartfonie bez zużywania paczek danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0007_otodom.png"
+		},
+		"Migam": {
+			"name": "Migam",
+			"description": "To opcja umożliwiająca korzystanie z Migam w smartfonie bez zużywania paczek danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0013_migam.png"
+		},
+		"myTmobile": {
+			"name": "Mój T-Mobile",
+			"description": "To opcja umożliwiająca korzystanie z Mój T-Mobile bez zużywania paczek danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0012_moj-tm.png"
+		},
+		"Usługi Bankowe": {
+			"name": "Usługi Bankowe",
+			"description": "To opcja umożliwiająca korzystanie z aplikacji T-Mobile Usługi Bankowe bez zużywania paczek danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0002_uslugibankowe.png"
+		},
+		"Tinder": {
+			"name": "Tinder",
+			"description": "To opcja umożliwiająca korzystanie z Tindera bez zużywania paczek danych. Połączenia głosowe, połączenia video i korzystanie z linków do serwisów zewnętrznych (np.: Youtube) będą zużywały Twoje paczki danych.",
+			"ico": "/assets/img/T_HYCOM/SML/images/_0004_tinder.png"
+		}
+	}
+}
