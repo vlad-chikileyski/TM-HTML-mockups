@@ -467,7 +467,7 @@ body {
 
 .abee-offers-app {
     font-family: "teleGroteskFett";
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.woff");
+    src: url("/assets/fonts/TeleGroteskFett.woff");
 }
 
 }
@@ -476,7 +476,7 @@ body {
 
 .abee-offers-app {
     font-family: "teleGroteskHalbFett";
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHalbfett.woff");
+    src: url("/assets/fonts/TeleGroteskHalbfett.woff");
 }
 
 }
@@ -485,7 +485,7 @@ body {
 
 .abee-offers-app {
     font-family: "teleGroteskUltra";
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.woff");
+    src: url("/assets/fonts/TeleGroteskUltra.woff");
 }
 
 }
@@ -494,7 +494,7 @@ body {
 
 .abee-offers-app {
     font-family: 'teleGroteskHeadlineRegular';
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.woff");
+    src: url("/assets/fonts/TeleGroteskHeadline-Regular.woff");
 }
 
 }
@@ -503,7 +503,7 @@ body {
 
 .abee-offers-app {
     font-family: "teleGroteskNormal";
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.woff");
+    src: url("/assets/fonts/TeleGroteskNormal.woff");
 }
 
 }
@@ -615,7 +615,7 @@ body {
 }
 
 .abee-offers-app .contract-tab {
-    background: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/bg_tel_switcher.png") center repeat-x;
+    background: url("/assets/img/bg_tel_switcher.png") center repeat-x;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -1392,13 +1392,13 @@ body {
 .abee-offers-app .btn-right {
     height: 51px;
     padding-right: 13px;
-    background: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png") top right no-repeat;
+    background: url("/assets/img/button_arrow.png") top right no-repeat;
 }
 
 .abee-offers-app .btn-left {
     height: 53px;
     padding-left: 13px;
-    background: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png") bottom left no-repeat;
+    background: url("/assets/img/button_arrow.png") bottom left no-repeat;
 }
 
 .abee-offers-app .group-prices {
@@ -1452,27 +1452,27 @@ p.heading {
 
 @font-face {
     font-family: "teleGroteskFett";
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.woff");
+    src: url("/assets/fonts/TeleGroteskFett.woff");
 }
 
 @font-face {
     font-family: "teleGroteskHalbFett";
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHalbfett.woff");
+    src: url("/assets/fonts/TeleGroteskHalbfett.woff");
 }
 
 @font-face {
     font-family: "teleGroteskUltra";
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.woff");
+    src: url("/assets/fonts/TeleGroteskUltra.woff");
 }
 
 @font-face {
     font-family: 'teleGroteskHeadlineRegular';
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.woff");
+    src: url("/assets/fonts/TeleGroteskHeadline-Regular.woff");
 }
 
 @font-face {
     font-family: "teleGroteskNormal";
-    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.woff");
+    src: url("/assets/fonts/TeleGroteskNormal.woff");
 }
 
 .tippy-tooltip.info-tooltip-theme {
