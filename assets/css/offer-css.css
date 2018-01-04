@@ -467,7 +467,7 @@ body {
 
 .abee-offers-app {
     font-family: "teleGroteskFett";
-    src: url("/assets/fonts/TeleGroteskFett.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.woff");
 }
 
 }
@@ -476,7 +476,7 @@ body {
 
 .abee-offers-app {
     font-family: "teleGroteskHalbFett";
-    src: url("/assets/fonts/TeleGroteskHalbfett.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHalbfett.woff");
 }
 
 }
@@ -485,7 +485,7 @@ body {
 
 .abee-offers-app {
     font-family: "teleGroteskUltra";
-    src: url("/assets/fonts/TeleGroteskUltra.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.woff");
 }
 
 }
@@ -494,7 +494,7 @@ body {
 
 .abee-offers-app {
     font-family: 'teleGroteskHeadlineRegular';
-    src: url("/assets/fonts/TeleGroteskHeadline-Regular.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.woff");
 }
 
 }
@@ -503,7 +503,7 @@ body {
 
 .abee-offers-app {
     font-family: "teleGroteskNormal";
-    src: url("/assets/fonts/TeleGroteskNormal.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.woff");
 }
 
 }
@@ -567,14 +567,20 @@ body {
     width: 45%;
 }
 
-.abee-offers-app .offer-type .offer-type__btn:hover {
+/*.abee-offers-app .offer-type .offer-type__btn:hover {
     color: #e20074;
-}
-
+}*/
 .abee-offers-app .offer-type .active {
     border: 1px solid #d2d2d2;
-    background-color: #fff;
-    color: #e20074;
+    background-color: #fff !important;
+    color: #e20074 !important;
+    box-shadow: none !important;
+}
+
+/*.abee-offers-app .offer-type a:active,*/
+.abee-offers-app .offer-type a:focus, .abee-offers-app .offer-type a:hover {
+    background: #e20074;
+    color: #fff;
 }
 
 .abee-offers-app .offer-type .active:after {
@@ -592,6 +598,8 @@ body {
     left: 50%;
 }
 
+.abee-offers-app .offer-type a:hover:after
+
 @media screen and (max-width: 768px) {
     .abee-offers-app .offer-type {
         -webkit-box-pack: center;
@@ -607,7 +615,7 @@ body {
 }
 
 .abee-offers-app .contract-tab {
-    background: url("/assets/img/bg_tel_switcher.png") center repeat-x;
+    background: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/bg_tel_switcher.png") center repeat-x;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -636,6 +644,11 @@ body {
     line-height: 2em;
     font-size: 0.9em;
     position: relative;
+}
+
+.contract-tab a:active, .contract-tab a:focus, .contract-tab a:hover {
+    background-color: #da2582;
+    color: #fff;
 }
 
 .abee-offers-app .contract-tab__btn:not(:first-of-type):after {
@@ -833,8 +846,8 @@ body {
 }
 
 @media (min-width: 1024px) {
-    .abee-offers-app .offer-boxes  .ngx-slick  .slick-list {
-    /*    overflow: visible;*/
+    .abee-offers-app .offer-boxes .ngx-slick .slick-list {
+        /*    overflow: visible;*/
     }
 
     .abee-offers-app .offer-boxes .offer-box {
@@ -1057,11 +1070,21 @@ body {
 }
 
 .abee-offers-app .arrow-prev-l {
-    left: 1px;
+    display: block;
+    width: 38px !important;
+    height: 38px !important;
+    top: 280px;
+    left: -29px;
+    position: absolute;
 }
 
 .abee-offers-app .arrow-next-r {
-    right: 1px;
+    display: block;
+    width: 38px !important;
+    height: 38px !important;
+    position: absolute;
+    top: 280px;
+    right: -29px;
 }
 
 .abee-offers-app .bonuses {
@@ -1297,10 +1320,15 @@ body {
     box-shadow: 0 0 2px 0 rgba(0, 0, 0, 0.69);
     transition: color 0.3s;
     text-transform: none;
+    transition: background-color .2s ease-out, border-color .2s ease-out, color .2s ease-out;
 }
 
 .abee-offers-app .wrapper-main .btn:hover {
-    color: #000;
+    background: #fff;
+    color: #e20074;
+    border-color: #e20074;
+    text-decoration: none;
+    outline: none !important
 }
 
 .abee-offers-app .wrapper-main .h1, .abee-offers-app .wrapper-main .h3, .abee-offers-app .wrapper-main .h4, .abee-offers-app .wrapper-main .h6 {
@@ -1364,13 +1392,13 @@ body {
 .abee-offers-app .btn-right {
     height: 51px;
     padding-right: 13px;
-    background: url("/assets/img/button_arrow.png") top right no-repeat;
+    background: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png") top right no-repeat;
 }
 
 .abee-offers-app .btn-left {
     height: 53px;
     padding-left: 13px;
-    background: url("/assets/img/button_arrow.png") bottom left no-repeat;
+    background: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png") bottom left no-repeat;
 }
 
 .abee-offers-app .group-prices {
@@ -1389,7 +1417,22 @@ body {
 }
 
 .abee-offers-app .group-prices .net {
+    /*
     min-width: 73px;
+    */
+
+    display: none;
+}
+
+.price-wrapper .group-prices .net.active,
+.price-wrapper .group-prices .net.btn-left,
+.price-wrapper .group-prices .net.btn-right {
+    display: flex;
+}
+
+.price-wrapper .group-prices .net.btn-left.disabled,
+.price-wrapper .group-prices .net.btn-right.disabled {
+    visibility: hidden;
 }
 
 .abee-offers-app .group-prices .pink {
@@ -1409,30 +1452,30 @@ p.heading {
 
 @font-face {
     font-family: "teleGroteskFett";
-    src: url("/assets/fonts/TeleGroteskFett.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.woff");
 }
 
 @font-face {
     font-family: "teleGroteskHalbFett";
-    src: url("/assets/fonts/TeleGroteskHalbfett.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHalbfett.woff");
 }
 
 @font-face {
     font-family: "teleGroteskUltra";
-    src: url("/assets/fonts/TeleGroteskUltra.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.woff");
 }
 
 @font-face {
     font-family: 'teleGroteskHeadlineRegular';
-    src: url("/assets/fonts/TeleGroteskHeadline-Regular.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.woff");
 }
 
 @font-face {
     font-family: "teleGroteskNormal";
-    src: url("/assets/fonts/TeleGroteskNormal.woff");
+    src: url("C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.woff");
 }
 
-.tippy-popper .info-tooltip {
+.tippy-tooltip.info-tooltip-theme {
     position: relative;
     bottom: 20px;
     display: -webkit-box;
@@ -1456,7 +1499,60 @@ p.heading {
     line-height: 15px;
 }
 
-.tippy-popper .info-tooltip:after {
+.tippy-tooltip.honeybee-theme .tippy-backdrop {
+    /* Your styling here. Example: */
+    background-color: yellow;
+}
+
+/*.tippy-tooltip.info-tooltip-theme .tippy-backdrop {
+    position: relative;
+    bottom: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    max-width: 250px;
+    max-height: 330px;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.32);
+    border-radius: 5px;
+    font-size: 0.9em;
+    text-align: left;
+    line-height: 15px;
+}*/
+
+.tippy-popper .tippy-tooltip {
+    position: relative;
+    bottom: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    max-width: 250px;
+    max-height: 330px;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.32);
+    border-radius: 5px;
+    font-size: 0.9em;
+    text-align: left;
+    line-height: 15px;
+}
+
+/*.tippy-popper .tippy-tooltip:after {
     background-color: #fff;
     margin: auto;
     position: absolute;
@@ -1469,7 +1565,7 @@ p.heading {
     transform: rotate(45deg);
     border-right: 1px solid #d2d2d2;
     border-bottom: 1px solid #d2d2d2;
-}
+}*/
 
 .adx-srv {
     width: 75px;
