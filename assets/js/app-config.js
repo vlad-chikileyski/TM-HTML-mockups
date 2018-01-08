@@ -125,10 +125,13 @@ $(document).ready(function () {
 
         $(this).next().addClass("btn-right");
         $('.btn-left').prevAll().removeClass("btn-left");
-        var boxPrice = $(this).data('price');
-        var boxId = $(this).data('box-id');
-        document.getElementById(boxId).innerHTML = boxPrice;
-
+        try {
+            var boxPrice = $(this).data('price');
+            var boxId = $(this).data('box-id');
+            document.getElementById(boxId).innerHTML = boxPrice;
+        } catch (e) {
+            //alert( e.message );
+        }
     });
     /*****************Btn-right navigation functionality******************/
 
@@ -142,13 +145,16 @@ $(document).ready(function () {
         $(this).prev().addClass("btn-left");
 
         $(this).next().addClass("net btn-right");
-        $('.btn-right').nextAll().removeClass("btn-right")
-        var boxPrice = $(this).data('price');
-        var boxId = $(this).data('box-id');
-        document.getElementById(boxId).innerHTML = boxPrice;
+        $('.btn-right').nextAll().removeClass("btn-right");
+        try {
+            var boxPrice = $(this).data('price');
+            var boxId = $(this).data('box-id');
+            document.getElementById(boxId).innerHTML = boxPrice;
+        } catch (e) {
+            //alert( e.message );
+        }
     });
     /*****************Btn-left navigation functionality******************/
-
 
     /*****************HEAD MENU START******************/
 
