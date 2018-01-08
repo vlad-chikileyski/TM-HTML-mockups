@@ -6,8 +6,8 @@ $(document).ready(function () {
         infinite: true,
         slidesToScroll: 1,
         arrows: true,
-        prevArrow: '<img  class="arrow-prev-l"  alt="Previous button - move to previous slide" src="C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/prev.png">',
-        nextArrow: '<img  class="arrow-next-r"  alt="Next button - move to next slide" src="C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/next.png">',
+        prevArrow: '<img  class="arrow-prev-l"  alt="Previous button - move to previous slide" src="file:///C:/nvp/assets/img/prev.png">',
+        nextArrow: '<img  class="arrow-next-r"  alt="Next button - move to next slide" src="file:///C:/nvp/assets/img/next.png">',
         focusOnSelect: false,
         dots: false,
         responsive: [
@@ -51,8 +51,8 @@ $(document).ready(function () {
     });
 
     $('.ngxcarousel-items').slick({
-        prevArrow: '<img  class="arrow-prev" alt="Previous button - move to previous slide" src="C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/prev.png">',
-        nextArrow: '<img  class="arrow-next" alt="Next button - move to next slide" src="C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/next.png">',
+        prevArrow: '<img  class="arrow-prev" alt="Previous button - move to previous slide" src="file:///C:/nvp/assets/img/prev.png">',
+        nextArrow: '<img  class="arrow-next" alt="Next button - move to next slide" src="file:///C:/nvp/assets/img/next.png">',
         slidesToShow: 3,
         slidesToScroll: 1,
         responsive: [
