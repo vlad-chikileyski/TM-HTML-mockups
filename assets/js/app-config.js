@@ -125,6 +125,9 @@ $(document).ready(function () {
 
         $(this).next().addClass("btn-right");
         $('.btn-left').prevAll().removeClass("btn-left")
+        var boxPrice = $(this).data('price');
+        alert(boxPrice);
+
     });
     /*****************Btn-right navigation functionality******************/
 
@@ -139,8 +142,8 @@ $(document).ready(function () {
 
         $(this).next().addClass("net btn-right");
         $('.btn-right').nextAll().removeClass("btn-right")
-
-
+        var boxPrice = $(this).data('price');
+        alert(boxPrice);
     });
     /*****************Btn-left navigation functionality******************/
 
@@ -157,6 +160,8 @@ $(document).ready(function () {
         $("div.app-tmo-criterion-contract-tab div.contract-tab").css("display", "none");
         /*Set visibility flex = visible*/
         document.getElementById(contract_tab1).style.display = 'flex';
+        /* var childList = document.getElementById(contract_tab1);
+         childList.children[0].className +=" active";*/
     });
     /*****************HEAD MENU END******************/
 
@@ -191,16 +196,21 @@ $(document).ready(function () {
         $("div.offer-boxes").removeAttr("style");
     });
     /*****************Additional video services START******************/
-    $(".service-video-close").click(function() {
+    $(".service-video-close").click(function () {
 
         $(".adx-offr-click").hide();
 
     });
 
-    $(".service-video-open").click(function() {
+    $(".service-video-open").click(function () {
 
         $(".adx-offr-click").css("display", "block");
     });
 
     /*****************For Additional video services END******************/
+
+
+    $(".documents__heading").click(function () {
+        $("ul.doc-items").toggle(100);
+    });
 });
