@@ -1,85 +1,85 @@
 @charset "UTF-8";
 @font-face {
     font-family: "Tele-GroteskFet";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036016t_v21-2.eot)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036016t_v21-2.eot)
 }
 
 @font-face {
     font-family: "Tele-GroteskFet";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036016t_v21-2.ttf)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036016t_v21-2.ttf)
 }
 
 @font-face {
     font-family: "Tele-Grotesk-Fett";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036016t_v21-2.eot)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036016t_v21-2.eot)
 }
 
 @font-face {
     font-family: "Tele-Grotesk-Fett";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036016t_v21-2.ttf)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036016t_v21-2.ttf)
 }
 
 @font-face {
     font-family: "Tele-GroteskHal";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036014t_v21-2.eot)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036014t_v21-2.eot)
 }
 
 @font-face {
     font-family: "Tele-GroteskHal";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036014t_v21-2.ttf)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036014t_v21-2.ttf)
 }
 
 @font-face {
     font-family: "Tele-Grotesk-Halb";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036014t_v21-2.eot)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036014t_v21-2.eot)
 }
 
 @font-face {
     font-family: "Tele-Grotesk-Halb";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036014t_v21.ttf)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036014t_v21.ttf)
 }
 
 @font-face {
     font-family: "Tele-GroteskNor";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036013t_v21.eot)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036013t_v21.eot)
 }
 
 @font-face {
     font-family: "Tele-GroteskNor";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/t036013t_v21-2.ttf)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/t036013t_v21-2.ttf)
 }
 
 @font-face {
     font-family: "Tele-GroteskUltra";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/telegroteskheadlineultra.eot)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/telegroteskheadlineultra.eot)
 }
 
 @font-face {
     font-family: "Tele-GroteskUltra";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/telegroteskheadlineultra.ttf)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/telegroteskheadlineultra.ttf)
 }
 
 @font-face {
     font-family: "Tele-GroteskRegular";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/telegroteskheadlineregular.eot)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/telegroteskheadlineregular.eot)
 }
 
 @font-face {
     font-family: "Tele-GroteskRegular";
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/telegroteskheadlineregular.ttf)
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/telegroteskheadlineregular.ttf)
 }
 
 @font-face {
     font-family: 'tele-groteskultregular';
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/tele-grotesk-ultr-webfont.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/tele-grotesk-ultr-webfont.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/tele-grotesk-ultr-webfont.woff2) format("woff2"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/tele-grotesk-ultr-webfont.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/tele-grotesk-ultr-webfont.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/tele-grotesk-ultr-webfont.svg#tele-groteskultregular) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/tele-grotesk-ultr-webfont.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/tele-grotesk-ultr-webfont.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/tele-grotesk-ultr-webfont.woff2) format("woff2"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/tele-grotesk-ultr-webfont.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/tele-grotesk-ultr-webfont.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/tele-grotesk-ultr-webfont.svg#tele-groteskultregular) format("svg");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: 'BebasNeueBook';
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/BebasNeueBook.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/BebasNeueBook.otf) format("opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/BebasNeueBook.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/BebasNeueBook.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/BebasNeueBook.svg#BebasNeueBook) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/BebasNeueBook.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/BebasNeueBook.otf) format("opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/BebasNeueBook.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/BebasNeueBook.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/BebasNeueBook.svg#BebasNeueBook) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -97,27 +97,27 @@
     font-family: "cooper_hewittbook";
     font-style: normal;
     font-weight: 400;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-book.eot#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-book.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-book.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-book.svg) format("svg")
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-book.eot#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-book.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-book.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-book.svg) format("svg")
 }
 
 @font-face {
     font-family: "cooper_hewittbold";
     font-style: normal;
     font-weight: 400;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-bold.eot#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-bold.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-bold.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-bold.ttf) format("svg")
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-bold.eot#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-bold.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-bold.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-bold.ttf) format("svg")
 }
 
 @font-face {
     font-family: "cooper_hewittlight";
     font-style: normal;
     font-weight: 400;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-light.eot#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-light.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-light.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/cooperhewitt-light.svg) format("svg")
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-light.eot#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-light.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-light.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/cooperhewitt-light.svg) format("svg")
 }
 
 @font-face {
     font-family: 'CooperHewitt-Semibold';
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/CooperHewitt-Semibold.eot);
-    src: local(☺), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/CooperHewitt-Semibold.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/CooperHewitt-Semibold.ttf) format("truetype")
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/CooperHewitt-Semibold.eot);
+    src: local(☺), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/CooperHewitt-Semibold.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/CooperHewitt-Semibold.ttf) format("truetype")
     /* REFACTOR THIS PART ,url(http://cdn.abee.cloud/resources/TMobile/T_SML/fonts/CooperHewitt-Semibold.svg) format("svg")*/
 ;
     font-weight: 400;
@@ -155,7 +155,7 @@
 
 .bx-wrapper .bx-loading {
     min-height: 50px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/bx_loader.gif) center center no-repeat #fff;
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/bx_loader.gif) center center no-repeat #fff;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -202,12 +202,12 @@
 
 .bx-wrapper .bx-prev {
     left: -15px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/controls.png) no-repeat 0 -38px
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/controls.png) no-repeat 0 -38px
 }
 
 .bx-wrapper .bx-next {
     right: -15px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/controls.png) no-repeat -43px -38px
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/controls.png) no-repeat -43px -38px
 }
 
 .bx-wrapper .bx-prev:hover {
@@ -243,7 +243,7 @@
     width: 10px;
     height: 11px;
     outline: 0;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/controls.png) -86px -11px no-repeat;
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/controls.png) -86px -11px no-repeat;
     margin: 0 3px
 }
 
@@ -258,7 +258,7 @@
     width: 9px;
     height: 11px;
     outline: 0;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/controls.png) -86px -44px no-repeat;
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/controls.png) -86px -44px no-repeat;
     margin: 0 3px
 }
 
@@ -1072,7 +1072,7 @@
     margin: 0 auto;
     height: 75px;
     width: 120px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/logo_03.png) 20px center no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/logo_03.png) 20px center no-repeat
 }
 
 .wrapper-main .mainCon a.logo2 {
@@ -1082,7 +1082,7 @@
     margin: 0 auto;
     height: 75px;
     margin-right: 20px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/logo_06.png) right center no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/logo_06.png) right center no-repeat
 }
 
 .wrapper-main .mainCon a:hover {
@@ -1194,7 +1194,7 @@
 }
 
 .wrapper-main .tel-switcher {
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/bg_tel_switcher.png) center repeat-x
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/bg_tel_switcher.png) center repeat-x
 }
 
 .wrapper-main .tel-switcher .switch-holder {
@@ -1260,7 +1260,7 @@
     display: block;
     float: left;
     margin: 15px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/nav_arrows.png) top left no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/nav_arrows.png) top left no-repeat
 }
 
 .wrapper-main .nav-holder .right {
@@ -1269,7 +1269,7 @@
     display: block;
     float: right;
     margin: 15px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/nav_arrows.png) top right no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/nav_arrows.png) top right no-repeat
 }
 
 .wrapper-main .box-wrapper {
@@ -1433,26 +1433,26 @@
     width: 74px;
     height: 53px;
     padding-left: 13px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png) bottom left no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/button_arrow.png) bottom left no-repeat
 }
 
 .wrapper-main .box .item .switcher .btn-right {
     width: 74px;
     height: 51px;
     padding-right: 13px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png) top right no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/button_arrow.png) top right no-repeat
 }
 
 .wrapper-main .box .item .switcher .btn-left.disabled {
     width: 73px;
     height: 51px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png) top left no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/button_arrow.png) top left no-repeat
 }
 
 .wrapper-main .box .item .switcher .btn-right.disabled {
     width: 74px;
     height: 52px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png) bottom right no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/button_arrow.png) bottom right no-repeat
 }
 
 .item.grey.phone .net {
@@ -1485,26 +1485,26 @@
     width: 74px;
     height: 53px;
     padding-left: 13px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png) bottom left no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/button_arrow.png) bottom left no-repeat
 }
 
 .item.grey.phone .btn-right {
     width: 74px;
     height: 51px;
     padding-right: 13px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png) top right no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/button_arrow.png) top right no-repeat
 }
 
 .item.grey.phone .btn-left.disabled {
     width: 73px;
     height: 51px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png) top left no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/button_arrow.png) top left no-repeat
 }
 
 .item.grey.phone .btn-right.disabled {
     width: 74px;
     height: 52px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/button_arrow.png) bottom right no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/button_arrow.png) bottom right no-repeat
 }
 
 .wrapper-main .box .item .price {
@@ -1554,15 +1554,15 @@
     right: -40px;
     margin-top: -9px;
     cursor: pointer;
-    background: transparent url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/tip.png) center center no-repeat
+    background: transparent url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/tip.png) center center no-repeat
 }
 
 .wrapper-main .box .item .block-price .tip-icon:hover {
-    background: transparent url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/tip-pink.png) center center no-repeat
+    background: transparent url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/tip-pink.png) center center no-repeat
 }
 
 .wrapper-main .tip-active {
-    background: transparent url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/tip-pink.png) center center no-repeat !important
+    background: transparent url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/tip-pink.png) center center no-repeat !important
 }
 
 .wrapper-main .box .ico {
@@ -1581,11 +1581,11 @@
 }
 
 .wrapper-main .box .ico-bonus.delivery {
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/ico-delivery.png) center left no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/ico-delivery.png) center left no-repeat
 }
 
 .wrapper-main .box .ico-bonus.online-shop {
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/online-shop.png) center left no-repeat
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/online-shop.png) center left no-repeat
 }
 
 .wrapper-main .all-icons .content {
@@ -1774,7 +1774,7 @@
         margin: 0 auto;
         height: 50px;
         width: 120px;
-        background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/logo_03.png) 20px center no-repeat;
+        background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/logo_03.png) 20px center no-repeat;
         background-size: auto 40px
     }
 
@@ -1785,7 +1785,7 @@
         margin: 0 auto;
         height: 50px;
         margin-right: 20px;
-        background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/img/logo_06.png) right center no-repeat;
+        background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/logo_06.png) right center no-repeat;
         background-size: auto 40px
     }
 

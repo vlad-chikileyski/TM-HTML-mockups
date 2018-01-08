@@ -50,6 +50,51 @@ $(document).ready(function () {
         ]
     });
 
+    $('.ngxcarousel-items').slick({
+        prevArrow: '<img  class="arrow-prev" alt="Next button - move to next slide" src="https://s3.eu-central-1.amazonaws.com/abee.execon.pl/p/resources/TMobile/AngularFixer/img/prev.png">',
+        nextArrow: '<img  class="arrow-next" alt="Previous button - move to previous slide" src="https://s3.eu-central-1.amazonaws.com/abee.execon.pl/p/resources/TMobile/AngularFixer/img/next.png">',
+        slidesToShow: 3,
+        slidesToScroll: 1,
+        responsive: [
+            {
+                breakpoint: 1024,
+                settings: {
+                    slidesToShow: 3,
+                    centerPadding: '220px',
+                    initialSlide: 0,
+                    slidesToScroll: 1,
+                    centerMode: false,
+                    focusOnSelect: false,
+                    arrows: true
+                }
+            },
+            {
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 3,
+                    centerPadding: '100px',
+                    centerMode: false,
+                    initialSlide: 0,
+                    slidesToScroll: 1,
+                    arrows: true,
+                    focusOnSelect: false
+                }
+            },
+            {
+                breakpoint: 650,
+                settings: {
+                    slidesToShow: 3,
+                    centerPadding: '80px',
+                    initialSlide: 0,
+                    slidesToScroll: 1,
+                    centerMode: false,
+                    focusOnSelect: false,
+                    arrows: true
+                }
+            }
+        ]
+    });
+
 
     tippy('.basic-row__tip', {
         theme: 'light',
@@ -127,6 +172,7 @@ $(document).ready(function () {
         * !All slick* elements will be inspected and re-injected(resizable) -> new wight
         * */
         $('.ngx-slick-elements').slick("refresh");
+        $('.ngxcarousel-items').slick("refresh");
 
 
     });
@@ -143,4 +189,17 @@ $(document).ready(function () {
         criterionContractTab.find('div:first-child').css("display", "flex");
         $("div.offer-boxes").removeAttr("style");
     });
+    /*****************Additional video services START******************/
+    $(".service-video-close").click(function() {
+
+        $(".adx-offr-click").hide();
+
+    });
+
+    $(".service-video-open").click(function() {
+
+        $(".adx-offr-click").css("display", "block");
+    });
+
+    /*****************For Additional video services END******************/
 });

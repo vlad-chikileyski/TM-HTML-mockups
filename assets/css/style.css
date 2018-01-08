@@ -249,8 +249,8 @@ a:focus:not(.no-focus), button:focus:not(.no-focus), input[type=button]:focus:no
 
 @font-face {
     font-family: TeleGrotesk;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskFett.svg#TeleGroteskFett) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskFett.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskFett.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskFett.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskFett.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskFett.svg#TeleGroteskFett) format("svg");
     font-weight: 700;
     font-style: normal
 }
@@ -261,8 +261,8 @@ a:focus:not(.no-focus), button:focus:not(.no-focus), input[type=button]:focus:no
 
 @font-face {
     font-family: TeleGrotesk;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskNormal.svg#TeleGroteskNormal) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskNormal.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskNormal.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskNormal.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskNormal.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskNormal.svg#TeleGroteskNormal) format("svg");
     font-weight: 100;
     font-style: normal
 }
@@ -273,8 +273,8 @@ a:focus:not(.no-focus), button:focus:not(.no-focus), input[type=button]:focus:no
 
 @font-face {
     font-family: TeleGrotesk;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHeadline-Regular.svg#TeleGroteskHeadline-Regular) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHeadline-Regular.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHeadline-Regular.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHeadline-Regular.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHeadline-Regular.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHeadline-Regular.svg#TeleGroteskHeadline-Regular) format("svg");
     font-weight: 300;
     font-style: normal
 }
@@ -286,7 +286,7 @@ a:focus:not(.no-focus), button:focus:not(.no-focus), input[type=button]:focus:no
 @font-face {
     font-family: TeleGrotesk;
     src: url(../fonts/);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHalbfett.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHalbfett.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHalbfett.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskHalbfett.svg#TeleGroteskHalbfett) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHalbfett.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHalbfett.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHalbfett.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskHalbfett.svg#TeleGroteskHalbfett) format("svg");
     font-weight: 600;
     font-style: normal
 }
@@ -297,8 +297,8 @@ a:focus:not(.no-focus), button:focus:not(.no-focus), input[type=button]:focus:no
 
 @font-face {
     font-family: TeleGrotesk;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleGroteskUltra.svg#TeleGroteskUlt-Regular) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskUltra.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskUltra.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskUltra.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskUltra.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleGroteskUltra.svg#TeleGroteskUlt-Regular) format("svg");
     font-weight: 900;
     font-style: normal
 }
@@ -309,8 +309,8 @@ a:focus:not(.no-focus), button:focus:not(.no-focus), input[type=button]:focus:no
 
 @font-face {
     font-family: TeleLogo;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleLogo.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleLogo.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleLogo.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleLogo.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/TeleLogo.svg#TeleLogo) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleLogo.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleLogo.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleLogo.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleLogo.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/TeleLogo.svg#TeleLogo) format("svg");
     font-weight: 400;
     font-style: normal
 }
@@ -325,24 +325,24 @@ a:focus:not(.no-focus), button:focus:not(.no-focus), input[type=button]:focus:no
 
 @font-face {
     font-family: exo;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-light-webfont.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-light-webfont.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-light-webfont.woff2) format("woff2"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-light-webfont.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-light-webfont.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-light-webfont.svg#exo_2light) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-light-webfont.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-light-webfont.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-light-webfont.woff2) format("woff2"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-light-webfont.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-light-webfont.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-light-webfont.svg#exo_2light) format("svg");
     font-weight: 100;
     font-style: normal
 }
 
 @font-face {
     font-family: exo;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-regular-webfont.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-regular-webfont.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-regular-webfont.woff2) format("woff2"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-regular-webfont.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-regular-webfont.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-regular-webfont.svg#exo_2regular) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-regular-webfont.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-regular-webfont.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-regular-webfont.woff2) format("woff2"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-regular-webfont.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-regular-webfont.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-regular-webfont.svg#exo_2regular) format("svg");
     font-weight: 400;
     font-style: normal
 }
 
 @font-face {
     font-family: exo;
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-blackitalic-webfont.eot);
-    src: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-blackitalic-webfont.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-blackitalic-webfont.woff2) format("woff2"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-blackitalic-webfont.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-blackitalic-webfont.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/fonts/exo2-blackitalic-webfont.svg#exo_2black_italic) format("svg");
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-blackitalic-webfont.eot);
+    src: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-blackitalic-webfont.eot?#iefix) format("embedded-opentype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-blackitalic-webfont.woff2) format("woff2"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-blackitalic-webfont.woff) format("woff"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-blackitalic-webfont.ttf) format("truetype"), url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/fonts/exo2-blackitalic-webfont.svg#exo_2black_italic) format("svg");
     font-weight: 700;
     font-style: italic
 }
@@ -20750,7 +20750,7 @@ body .is-error + .select2-container .select2-selection {
     height: 8px;
     display: block;
     padding: 2px;
-    background: url(C:/Users/v0073933/WebstormProjects/TM-HTML-mockups-master/assets/images/device-rating.png) no-repeat 50%;
+    background: url(C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/images/device-rating.png) no-repeat 50%;
     border: 1px solid #ededed;
     border-radius: 2px;
     text-indent: -999px;
