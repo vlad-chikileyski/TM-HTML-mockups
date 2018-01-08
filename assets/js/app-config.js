@@ -124,9 +124,10 @@ $(document).ready(function () {
 
 
         $(this).next().addClass("btn-right");
-        $('.btn-left').prevAll().removeClass("btn-left")
+        $('.btn-left').prevAll().removeClass("btn-left");
         var boxPrice = $(this).data('price');
-        alert(boxPrice);
+        var boxId = $(this).data('box-id');
+        document.getElementById(boxId).innerHTML = boxPrice;
 
     });
     /*****************Btn-right navigation functionality******************/
@@ -143,7 +144,8 @@ $(document).ready(function () {
         $(this).next().addClass("net btn-right");
         $('.btn-right').nextAll().removeClass("btn-right")
         var boxPrice = $(this).data('price');
-        alert(boxPrice);
+        var boxId = $(this).data('box-id');
+        document.getElementById(boxId).innerHTML = boxPrice;
     });
     /*****************Btn-left navigation functionality******************/
 
