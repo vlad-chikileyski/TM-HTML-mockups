@@ -1391,6 +1391,21 @@ body {
     color: #000;
 }
 
+
+.price-wrapper .price-gb p.net.active {
+    padding: 4px 10px;
+    color: #e20074;
+    font-size: 1.5em !important;
+    font-family: Tele-GroteskFet;
+    font-weight:bolder;
+}
+
+.price-wrapper .price p.net.active {
+    font-size: 2.7em;
+    text-transform: none;
+    font-family: Tele-GroteskNor,Arial,Tahoma,Helvetica;
+}
+
 .abee-offers-app .btn-right {
     height: 51px;
     padding-right: 13px;
@@ -1419,6 +1434,14 @@ body {
 }
 
 .abee-offers-app .group-prices .net {
+    /*
+    min-width: 73px;
+    */
+
+    display: none;
+}
+
+.abee-offers-app .price-wrapper .net {
     /*
     min-width: 73px;
     */

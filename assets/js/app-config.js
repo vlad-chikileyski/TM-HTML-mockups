@@ -117,7 +117,7 @@ $(document).ready(function () {
     /*****************Btn-right navigation functionality******************/
     $(document).on('click', "p.btn-right", function () {
         $(this).removeClass();
-        $(this).addClass("net active h1");
+        $(this).addClass("net active");
 
         $(this).prev().removeClass();
         $(this).prev().addClass("net btn-left");
@@ -132,9 +132,9 @@ $(document).ready(function () {
     /*****************Btn-left navigation functionality******************/
     $(document).on('click', "p.btn-left", function () {
         $(this).removeClass("btn-left");
-        $(this).addClass("active h1");
+        $(this).addClass("active");
 
-        $(this).next().removeClass("active h1");
+        $(this).next().removeClass("active");
         $(this).prev().addClass("btn-left");
 
         $(this).next().addClass("net btn-right");
@@ -143,6 +143,7 @@ $(document).ready(function () {
 
     });
     /*****************Btn-left navigation functionality******************/
+
 
     /*****************HEAD MENU START******************/
 
