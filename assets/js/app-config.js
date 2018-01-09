@@ -128,11 +128,15 @@ $(document).ready(function () {
         try {
             var boxPrice = $(this).data('price');
             var boxId = $(this).data('box-id');
+            var taripromNumber = $(this).data('tariprom');
             document.getElementById(boxId).innerHTML = boxPrice;
         } catch (e) {
             //alert( e.message );
         }
+        changeBtnTaripromUrl(boxId, taripromNumber);
+
     });
+
     /*****************Btn-right navigation functionality******************/
 
 
@@ -146,15 +150,56 @@ $(document).ready(function () {
 
         $(this).next().addClass("net btn-right");
         $('.btn-right').nextAll().removeClass("btn-right");
+        var boxPrice = $(this).data('price');
+        var boxId = $(this).data('box-id');
+        var taripromNumber = $(this).data('tariprom');
         try {
-            var boxPrice = $(this).data('price');
-            var boxId = $(this).data('box-id');
             document.getElementById(boxId).innerHTML = boxPrice;
         } catch (e) {
-            //alert( e.message );
+            /*console.log(e);*/
         }
+        changeBtnTaripromUrl(boxId, taripromNumber);
     });
+
     /*****************Btn-left navigation functionality******************/
+
+    function changeBtnTaripromUrl(boxId, taripromNumber) {
+        try {
+            /*
+            * @For all button
+            * Change offers url for action
+            */
+            var buildId = '#' + boxId + '-tariprom';
+            var href = $(buildId).attr('href');
+            var clearCombine = removeQueryStringParameter('addoffer', href);
+            var buildUrl = clearCombine + "?addoffer=tariprom_" + taripromNumber;
+            $(buildId).attr("href", buildUrl);
+        } catch (e) {
+            /*console.log(e);*/
+        }
+    }
+
+
+    function removeQueryStringParameter(key, url) {
+
+        var hashParts = url.split('#');
+
+        var regex = new RegExp("([?&])" + key + "=.*?(&|#|$)", "i");
+
+        if (hashParts[0].match(regex)) {
+            //REMOVE KEY AND VALUE
+            url = hashParts[0].replace(regex, '$1');
+
+            //REMOVE TRAILING ? OR &
+            url = url.replace(/([?&])$/, '');
+
+            //ADD HASH
+            if (typeof hashParts[1] !== 'undefined' && hashParts[1] !== null)
+                url += '#' + hashParts[1];
+        }
+
+        return url;
+    }
 
     /*****************HEAD MENU START******************/
 
