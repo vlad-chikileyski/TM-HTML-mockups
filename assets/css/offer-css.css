@@ -1430,6 +1430,7 @@ body {
     justify-content: space-evenly;
     -webkit-box-align: end;
     -ms-flex-align: end;
+    justify-content: center;
     align-items: flex-end;
 }
 

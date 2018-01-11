@@ -49,7 +49,6 @@ $(document).ready(function () {
             }
         ]
     });
-
     $('.ngxcarousel-items').slick({
         prevArrow: '<img  class="arrow-prev" alt="Previous button - move to previous slide" src="C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/prev.png">',
         nextArrow: '<img  class="arrow-next" alt="Next button - move to next slide" src="C:/Users/v0073933/WebstormProjects/T-Mobile-mockup-git/assets/img/next.png">',
@@ -231,8 +230,6 @@ $(document).ready(function () {
         * !All slick* elements will be inspected and re-injected(resizable) -> new wight
         * */
         $('.ngx-slick-elements').slick("refresh");
-        $('.ngxcarousel-items').slick("refresh");
-
 
     });
     /*****************HEAD-SUB MENU END******************/
