@@ -14898,8 +14898,8 @@ body .is-error + .select2-container .select2-selection {
 }
 
 #header .top-nav .user-type-list li {
-    background: url(../images/user-type-divider.png) no-repeat 7px 9px transparent;
-    background: url(../images/user-type-divider.png) no-repeat .7rem .9rem transparent
+    background: url(https://s.t-mobile.pl/binaries/6698/rwd/assets/images/user-type-divider.png) no-repeat 7px 9px transparent;
+    background: url(https://s.t-mobile.pl/binaries/6698/rwd/assets/images/user-type-divider.png) no-repeat .7rem .9rem transparent
 }
 
 #header .top-nav .user-type-list li:first-child {
